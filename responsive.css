@@ -1,0 +1,51 @@
+@media (max-width: 46.1875em) {
+  .btn {
+    width: 27%;
+    height: 12%;
+    padding: 0;
+    font-size: 10px;
+  }
+  .between {
+    margin-top: 15px;
+    font-size: 12px;
+  }
+  h1 {
+    font-size: 22px;
+  }
+  .number {
+    padding: 14px;
+    font-size: 44px;
+    width: 34%;
+  }
+  .left {
+    margin-top: -20%;
+  }
+  .guess {
+    margin-left: 15px;
+    margin-right: 15px;
+    padding: 12px;
+    width: 70%;
+  }
+  .btn.check {
+    width: 35%;
+    padding: 7px;
+    font-size: 10px;
+  }
+  .right {
+    margin-bottom: 88px;
+  }
+  .message {
+    width: 100%;
+    font-size: 13px;
+    margin-bottom: 3rem;
+  }
+  .label-score {
+    font-size: 13px;
+  }
+  .label-highscore {
+    font-size: 13px;
+  }
+  .score {
+    font-size: 13px;
+  }
+}
